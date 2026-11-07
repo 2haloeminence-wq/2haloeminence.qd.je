@@ -1,6 +1,9 @@
 {
   "textos": {
     "entrar": "2halo!!!!",
+    "claveTitulo": "Esta página es privada",
+    "claveBoton": "Entrar",
+    "claveError": "Clave incorrecta",
     "handycamLink": "?",
     "handycamTitulo": "Handycam",
     "handycamSub": "Mirá los videos o descargá el que quieras.",
@@ -29,6 +32,11 @@
     "fuenteArchivo": "",
     "fuenteTodo": false,
     "acento": "#e6e6e6"
+  },
+  "acceso": {
+    "activo": false,
+    "salt": "",
+    "hash": ""
   },
   "efectos": {
     "nombre": "maquina",
@@ -108,7 +116,7 @@
       "archivo": "stickers/mw6cmk3y-removebg-preview.png",
       "x": 74.42708333333336,
       "y": 55.25762355415353,
-      "ancho": 120,
+      "ancho": 67,
       "rotacion": 0,
       "modo": "arrastrar",
       "flotar": true,
@@ -119,7 +127,7 @@
       "archivo": "stickers/mw6cmk3y-removebg-preview.png",
       "x": 24.843750000000004,
       "y": 92.74973711882227,
-      "ancho": 120,
+      "ancho": 67,
       "rotacion": 0,
       "modo": "arrastrar",
       "flotar": true,
@@ -130,7 +138,7 @@
       "archivo": "stickers/mw6cmk3y-removebg-preview.png",
       "x": 21.04166666666666,
       "y": 11.209253417455292,
-      "ancho": 120,
+      "ancho": 43,
       "rotacion": 0,
       "modo": "arrastrar",
       "flotar": true,
@@ -152,7 +160,7 @@
       "archivo": "stickers/mw6ecwiz-edited-image-1794055468.png",
       "x": 71.30208333333333,
       "y": 22.87066246056782,
-      "ancho": 203,
+      "ancho": 134,
       "rotacion": 0,
       "modo": "atraer",
       "flotar": true,
