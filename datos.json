@@ -89,8 +89,8 @@
     {
       "id": "sl9w4p8",
       "archivo": "stickers/mw6cmk3y-removebg-preview.png",
-      "x": 45.677083333333336,
-      "y": 90.75184016824394,
+      "x": 8.958333333333334,
+      "y": 85.80967402733963,
       "ancho": 120,
       "rotacion": 0,
       "modo": "atraer",
@@ -100,9 +100,20 @@
     {
       "id": "syu7llp",
       "archivo": "stickers/mw6cmk3y-removebg-preview.png",
-      "x": 14.947916666666666,
-      "y": 40.12618296529967,
+      "x": 34.166666666666664,
+      "y": 20.462670872765493,
       "ancho": 120,
+      "rotacion": 0,
+      "modo": "atraer",
+      "flotar": true,
+      "fuerza": 90
+    },
+    {
+      "id": "sbuszlx",
+      "archivo": "stickers/mw6dj121-background-removed-b1744a896e46f28d7e986.png",
+      "x": 11.25,
+      "y": 36.64563617245005,
+      "ancho": 195,
       "rotacion": 0,
       "modo": "atraer",
       "flotar": true,
