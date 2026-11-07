@@ -82,8 +82,8 @@
       "y": 58.83280757097792,
       "ancho": 120,
       "rotacion": 0,
-      "modo": "esquivar",
-      "flotar": false,
+      "modo": "atraer",
+      "flotar": true,
       "fuerza": 90
     }
   ]
