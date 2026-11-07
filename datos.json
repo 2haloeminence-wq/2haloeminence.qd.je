@@ -1,0 +1,90 @@
+{
+  "textos": {
+    "entrar": "click para entrar",
+    "handycamLink": "handycam",
+    "handycamTitulo": "Handycam",
+    "handycamSub": "Mirá los videos o descargá el que quieras.",
+    "sinVideos": "Todavía no hay videos cargados.",
+    "pie": ""
+  },
+  "perfil": {
+    "nombre": "2haloeminence",
+    "usuario": "",
+    "lugar": "",
+    "bio": "bienvenido a mi rincón ✦",
+    "avatar": "",
+    "anillo": true,
+    "fuente": "Sistema",
+    "acento": "#b57bff"
+  },
+  "ajustes": {
+    "fondoIndex": 0,
+    "fondoOscuro": 0.45,
+    "fondoBlur": 0,
+    "volumen": 0.6
+  },
+  "fondos": [
+    {
+      "nombre": "Video nuevo",
+      "tipo": "video",
+      "archivo": "fondos/mw6ch13r-pinterest-1151866042209402119.mp4"
+    }
+  ],
+  "redes": [
+    {
+      "nombre": "Instagram",
+      "url": "https://instagram.com/aangelpoetry",
+      "icono": "auto"
+    },
+    {
+      "nombre": "TikTok",
+      "url": "https://tiktok.com/@2haloeminence",
+      "icono": "auto"
+    },
+    {
+      "nombre": "YouTube",
+      "url": "https://youtube.com/@2haloeminence",
+      "icono": "auto"
+    }
+  ],
+  "canciones": [
+    {
+      "titulo": "huntr, Perswave - una espina (Audio Oficial)_ - huntr",
+      "artista": "huntr",
+      "archivo": "musica/mw6chij1-huntr-perswave-una-espina-audio-oficial-.mp3",
+      "portada": "musica/mw6cik68-73879cfcbe7dde288064899d2fe0f768.jpg"
+    },
+    {
+      "titulo": "huntr - babyboo (Video Oficial) - huntr",
+      "artista": "huntr",
+      "archivo": "musica/mw6cht05-huntr-babyboo-video-oficial-huntr.mp3",
+      "portada": "musica/mw6cio42-8bfa4b6d9b22455f5bcc08349ad517c9.jpg"
+    },
+    {
+      "titulo": "huntr - are you okay annie (Audio Oficial) - huntr",
+      "artista": "huntr",
+      "archivo": "musica/mw6chwio-huntr-are-you-okay-annie-audio-oficial-h.mp3",
+      "portada": "musica/mw6ciqx3-5d015c84374c0337e0d0841c459c1b1b.jpg"
+    },
+    {
+      "titulo": "huntr, Saramalacara - cortarme las alas (Audio Oficial) - huntr",
+      "artista": "huntr",
+      "archivo": "musica/mw6ci09s-huntr-saramalacara-cortarme-las-alas-aud.mp3",
+      "portada": "musica/mw6civlv-1f6dd72eb093e126e6c97cc414f4a16b.jpg"
+    }
+  ],
+  "videos": [],
+  "stickers": [
+    {
+      "id": "sshg9ek",
+      "archivo": "stickers/mw6cmk3y-removebg-preview.png",
+      "x": 9.114583333333332,
+      "y": 58.83280757097792,
+      "ancho": 120,
+      "rotacion": 0,
+      "modo": "esquivar",
+      "flotar": false,
+      "fuerza": 90
+    }
+  ]
+}
