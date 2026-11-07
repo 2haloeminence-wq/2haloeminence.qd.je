@@ -14,8 +14,37 @@
     "bio": "",
     "avatar": "img/mw6cs9w3-c573a1aa5b0f4aa92129032d6f737aac.jpg",
     "anillo": true,
-    "fuente": "Inter",
+    "marco": {
+      "estilo": "neon",
+      "color1": "#ffffff",
+      "color2": "#ffffff",
+      "color3": "#ffffff",
+      "grosor": 3,
+      "separacion": 2,
+      "velocidad": 6,
+      "brillo": 0,
+      "forma": "circulo"
+    },
+    "fuente": "Press Start 2P (pixel)",
+    "fuenteArchivo": "",
+    "fuenteTodo": false,
     "acento": "#e6e6e6"
+  },
+  "efectos": {
+    "nombre": "maquina",
+    "usuario": "maquina",
+    "lugar": "maquina",
+    "bio": "maquina",
+    "entrar": "maquina",
+    "enlace": "maquina",
+    "titulos": "maquina",
+    "subtitulo": "maquina",
+    "videoTitulo": "maquina",
+    "tema": "maquina",
+    "sinVideos": "maquina",
+    "pie": "maquina",
+    "velocidad": 55,
+    "repetir": false
   },
   "ajustes": {
     "fondoIndex": 0,
