@@ -34,9 +34,9 @@
     "acento": "#e6e6e6"
   },
   "acceso": {
-    "activo": false,
-    "salt": "",
-    "hash": ""
+    "activo": true,
+    "salt": "qHODSAeu1N3wehl+iue9rA==",
+    "hash": "kgpGlf2EYnex+F7de//uh3csQewpbHytcq/EbmnvMK4="
   },
   "efectos": {
     "nombre": "maquina",
@@ -102,13 +102,8 @@
   ],
   "videos": [],
   "drive": {
-    "apiKey": "AIzaSyC2Is-syaDZEg8o0Ln21RdlaxLhdLBNuvk",
-    "carpetas": [
-      {
-        "id": "18Gt-Rc_Z6XPEw6VrOVUp6EySXcWT_4V1",
-        "nombre": "cumpleaños lukas"
-      }
-    ]
+    "apiKey": "",
+    "carpetas": []
   },
   "stickers": [
     {
@@ -166,5 +161,9 @@
       "flotar": true,
       "fuerza": 90
     }
-  ]
+  ],
+  "protegido": {
+    "iv": "goZy3kvXo+7Xgy6u",
+    "datos": "qe+NQ/vvigl5ORrnsf2DoB6CX3i4ziI59hNgWLEkEEyY4ZzAJNz249Kf6eHzZjGxpRSnqhDA+DX5AeJAmchkqFrXqglywkfypYem8vA3BLbjUOMLjcwllZVupLX8260eX7lpARd4Zd3zQMSMtxwpwKmAsu/KZy3dXWQqA1KCf210f+KWqsDewJoUNQeECQFg50PlR3cajJXqhwsuUNyrtxzMkBm8o8Tvhb5+20aEBw=="
+  }
 }
