@@ -8,6 +8,10 @@
     "handycamTitulo": "Handycam",
     "handycamSub": "Mirá los videos o descargá el que quieras.",
     "sinVideos": "Todavía no hay videos cargados.",
+    "hcClaveTitulo": "unlock handycam",
+    "hcClaveBoton": "unlock",
+    "hcClaveError": "wrong key",
+    "hcClavePh": "password",
     "pie": ""
   },
   "perfil": {
@@ -37,6 +41,109 @@
     "activo": true,
     "salt": "qHODSAeu1N3wehl+iue9rA==",
     "hash": "kgpGlf2EYnex+F7de//uh3csQewpbHytcq/EbmnvMK4="
+  },
+  "handycamClave": {
+    "activo": true,
+    "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
+    "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
+    "iv": "4ffaPk0y2JurjEiq",
+    "datos": "yQ0UkTO7L9O7A2056mi/oT5GGk6QCyasDlyA5GqyE3XFUoNBOzPOk9fqV5vZeU0N1gBC+ZW23IYAK8hFV9/bcolGzoyEUWgZE6mgNzqmnTFtfNrAZkg0MN+2kTTE6ic2Dvgx0x6QWb9xRqAPpkcrfdx2wPhIBnzkkf6JETT5codeOUXvyc/9g7ESNg7vck+Tn4bjs+Vt9IFI693IAbZaFwCxbnJAcLWqBLQsnd2GTw==",
+    "estilo": "consola"
+  },
+  "clave": {
+    "activo": true,
+    "icono": "sheva se la come",
+    "errorColor": "#d74253",
+    "fondo": {
+      "tipo": "video",
+      "color1": "#07050d",
+      "color2": "#2b0a3d",
+      "angulo": 160,
+      "archivo": "clave/mw8axdi6-blob-tracking-on-the-free-version-of-tou.mp4",
+      "oscuridad": 0.2,
+      "blur": 3
+    },
+    "caja": {
+      "color": "#0c0814",
+      "opacidad": 0,
+      "borde": "#000000",
+      "bordeOp": 0.1,
+      "blur": 4,
+      "radio": 50,
+      "ancho": 260,
+      "sombra": true
+    },
+    "boton": {
+      "estilo": "solido",
+      "color1": "#fcfcfc",
+      "color2": "#5b8cff",
+      "texto": "#050505",
+      "radio": 12,
+      "glow": 0
+    },
+    "campo": {
+      "fondo": "#000000",
+      "fondoOp": 0.35,
+      "borde": "#ffffff",
+      "texto": "#ffffff",
+      "radio": 12
+    },
+    "texto": {
+      "color": "#cfc6e6",
+      "tam": 1
+    },
+    "foto": {
+      "archivo": "clave/mw8aze28-acodelasa.jpg",
+      "usarPerfil": true,
+      "tam": 84,
+      "forma": "circulo",
+      "borde": true,
+      "bordeColor": "#000000"
+    },
+    "stickers": []
+  },
+  "cursor": {
+    "activo": true,
+    "tipo": "punto",
+    "color": "#ffffff",
+    "bordeColor": "#000000",
+    "tam": 10,
+    "glow": true,
+    "glowColor": "#fafafa",
+    "glowTam": 16,
+    "imagen": "",
+    "imagenTam": 36,
+    "anclaje": "centro",
+    "anillo": true,
+    "anilloColor": "#a3a1a5",
+    "estela": true,
+    "estelaColor": "#ffffff",
+    "pulso": true,
+    "pulsoColor": "#8c8c8c",
+    "hoverEscala": 1.6
+  },
+  "particulas": {
+    "capa": "delante",
+    "enClave": true,
+    "lista": [
+      {
+        "id": "s2idlyk",
+        "tipo": "nieve",
+        "activo": true,
+        "forma": "punto",
+        "color": "#ffffff",
+        "multi": false,
+        "cantidad": 90,
+        "tam": 3,
+        "vel": 2.6,
+        "viento": 0,
+        "glow": true,
+        "glowColor": "#dedede",
+        "glowTam": 40,
+        "opacidad": 0.5,
+        "vientoCursor": true
+      }
+    ]
   },
   "efectos": {
     "nombre": "maquina",
@@ -166,9 +273,5 @@
       "flotar": true,
       "fuerza": 90
     }
-  ],
-  "protegido": {
-    "iv": "QEDQAdhiPUZo00+3",
-    "datos": "TA5dipPemo6v6zcwnx3MBqjQbqgISiPJ2Emrq0cqdpBhTwaKxRCe1ZnmWbO1R/2plURMGkixCUBAk1Gaf49lEfYiMV7/T7XlXZIiRA/5Uxl0wfutNr0ZYQvDtaeO7w/CTg3age7IR44ymQtgD39rD0VLiR/qWDSDltdDGxzMY6RwCYu7wucFOCdaXgm396xULTlSYcSyCReqSpHgvU/1KafRbDO2pZeFh/6PsIUgyQ=="
-  }
+  ]
 }
