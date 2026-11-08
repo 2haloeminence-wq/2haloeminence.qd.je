@@ -39,16 +39,16 @@
   },
   "acceso": {
     "activo": true,
-    "salt": "qHODSAeu1N3wehl+iue9rA==",
-    "hash": "kgpGlf2EYnex+F7de//uh3csQewpbHytcq/EbmnvMK4="
+    "salt": "F8cXWyYIxZAjmjrgPYNMXg==",
+    "hash": "khoNZkqL5NaOOFNA6lqGU9BFl5ljARkSx2C+ayL7GvU="
   },
   "handycamClave": {
     "activo": true,
     "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
     "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
-    "iv": "4ffaPk0y2JurjEiq",
-    "datos": "yQ0UkTO7L9O7A2056mi/oT5GGk6QCyasDlyA5GqyE3XFUoNBOzPOk9fqV5vZeU0N1gBC+ZW23IYAK8hFV9/bcolGzoyEUWgZE6mgNzqmnTFtfNrAZkg0MN+2kTTE6ic2Dvgx0x6QWb9xRqAPpkcrfdx2wPhIBnzkkf6JETT5codeOUXvyc/9g7ESNg7vck+Tn4bjs+Vt9IFI693IAbZaFwCxbnJAcLWqBLQsnd2GTw==",
-    "estilo": "consola"
+    "iv": "9RVKbHvAysQmk20C",
+    "datos": "PrVzHgyR+VtWdjFnlVnoUm+AMkR0BDuu0zkOL8RMEVh2id6q2sb1Pz1+Aet4HLY419StRbSs+MwHDa6Qf/C/0jOXvP82yFWBd0jjrK5Izp5A++bZ2kajB5g+QuLlHCFbVk4Fm9GbGtMJuOOQKeYcx3fMRFaGPxV0VBTIEZD7Kn0yRlnAQhPsGappgueMKIMLvgj5Fuh1uHotwh9R35JPcL4GGqCbtcEgxfBn6yPgug==",
+    "estilo": "normal"
   },
   "clave": {
     "activo": true,
