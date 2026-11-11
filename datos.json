@@ -46,8 +46,8 @@
     "activo": true,
     "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
     "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
-    "iv": "bDlZBngQ1oFWNbMz",
-    "datos": "jO7pC/zQQsUiSsKTKB4rzpzmDdc/goiO2oZCkUo9KtpmRe52B05iNhEjG2FmOFiuFR8S1UAi8p+WTm692QYjCPqXExiSL7gbWpuA2ttW4Ynt2z1Hac4cQsVb7p0aeBQTaB9qdHoKVRJGqDW96y8dRsNaOJZnBDZjzNXEp04nkozJYHc7EVQzqWr6biS2K+AmgV/zyBAD3Yn8Bo/IATlrt2iQGfxF0FLHeGr4AjInpQ==",
+    "iv": "vWndfmkBHIsLWeiB",
+    "datos": "71J50iGVzmCHBRkfwHU3yBJsAUhVuKfHMexm7z2KLNQH67HnWK4u9HlB70KgBAwhPf1UZyWIik0l59o80KZp7zcI1tFd1YmID5WdwPYAeqgbln8HcbD7flHRWsxRZxCnhwyuC9xMXfWoEOio6xK9F8LG5ai57FC+3A3Xo4UHUEGOWouy+pRofDKQreNKMACEWEX6+t7/JV6AE6TayXSRidW+tfSBHEvkXl4aTIjLdg==",
     "estilo": "normal"
   },
   "clave": {
@@ -162,7 +162,7 @@
     "repetir": true
   },
   "ajustes": {
-    "fondoIndex": 7,
+    "fondoIndex": 8,
     "fondoOscuro": 0.45,
     "fondoBlur": 0,
     "volumen": 0.6
@@ -207,6 +207,11 @@
       "nombre": "kittys",
       "tipo": "video",
       "archivo": "fondos/mwcfejx1-pinflik-com.mp4"
+    },
+    {
+      "nombre": "icarly",
+      "tipo": "video",
+      "archivo": "fondos/mwcfofbc-icarlycompr.mp4"
     }
   ],
   "redes": [
@@ -260,7 +265,7 @@
       "artista": "frozouda",
       "archivo": "musica/mwcceqee-fro-icarly-frozouda.mp3",
       "portada": "musica/mwccfqul-0527acd652bd25578ccaf30987e28c03.jpg",
-      "fondo": "6"
+      "fondo": "8"
     },
     {
       "titulo": "con mi ropa japonesa en varela - KevTK",
