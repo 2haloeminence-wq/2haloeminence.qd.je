@@ -46,8 +46,8 @@
     "activo": true,
     "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
     "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
-    "iv": "vWndfmkBHIsLWeiB",
-    "datos": "71J50iGVzmCHBRkfwHU3yBJsAUhVuKfHMexm7z2KLNQH67HnWK4u9HlB70KgBAwhPf1UZyWIik0l59o80KZp7zcI1tFd1YmID5WdwPYAeqgbln8HcbD7flHRWsxRZxCnhwyuC9xMXfWoEOio6xK9F8LG5ai57FC+3A3Xo4UHUEGOWouy+pRofDKQreNKMACEWEX6+t7/JV6AE6TayXSRidW+tfSBHEvkXl4aTIjLdg==",
+    "iv": "2T2iWLsAKrYGnxr3",
+    "datos": "WK1UYH539LpDOZ+DJ8iUde76qc8o6/AJYuMiN1q0t0DBrGzHFweLP4KtWyJtcSaPVR2AnyGkRrodE2K92KUZGfbHoCwoq7aj1yX3n7gEU9ppwetP+Dn7AZRqndJrm9wr7JjRSJUvh9eDgQ05ks9zD1PrQwFh+mlx+kMsYuNWLCcw7QmWWlJUGmfQXouNHYThNYGqzcajhj2De4ICecNEsJ0fLVM598IknPCbpV++Jg==",
     "estilo": "normal"
   },
   "clave": {
@@ -163,8 +163,8 @@
   },
   "ajustes": {
     "fondoIndex": 8,
-    "fondoOscuro": 0.45,
-    "fondoBlur": 0,
+    "fondoOscuro": 0.55,
+    "fondoBlur": 5,
     "volumen": 0.6
   },
   "fondos": [
@@ -189,11 +189,6 @@
       "archivo": "fondos/mwcfdlhs-salida.mp4"
     },
     {
-      "nombre": "blobtr",
-      "tipo": "video",
-      "archivo": "fondos/mwcfdrxq-pinterest-704813410472697616.mp4"
-    },
-    {
       "nombre": "alas",
       "tipo": "video",
       "archivo": "fondos/mwcfe3o4-pinterest-1077275173408326476.mp4"
@@ -212,6 +207,11 @@
       "nombre": "icarly",
       "tipo": "video",
       "archivo": "fondos/mwcfofbc-icarlycompr.mp4"
+    },
+    {
+      "nombre": "Video nuevobbbbbbbbbbbbbbbbbb",
+      "tipo": "video",
+      "archivo": "fondos/mwcfs0h8-blob-tracking-on-the-free-version-of-tou.mp4"
     }
   ],
   "redes": [
@@ -251,21 +251,21 @@
       "artista": "huntr",
       "archivo": "musica/mw6chwio-huntr-are-you-okay-annie-audio-oficial-h.mp3",
       "portada": "musica/mw6ciqx3-5d015c84374c0337e0d0841c459c1b1b.jpg",
-      "fondo": "4"
+      "fondo": "8"
     },
     {
       "titulo": "huntr, Saramalacara - cortarme las alas (Audio Oficial) - huntr",
       "artista": "huntr",
       "archivo": "musica/mw6ci09s-huntr-saramalacara-cortarme-las-alas-aud.mp3",
       "portada": "musica/mw6civlv-1f6dd72eb093e126e6c97cc414f4a16b.jpg",
-      "fondo": "5"
+      "fondo": "4"
     },
     {
       "titulo": "FRO! - iCarly - frozouda",
       "artista": "frozouda",
       "archivo": "musica/mwcceqee-fro-icarly-frozouda.mp3",
       "portada": "musica/mwccfqul-0527acd652bd25578ccaf30987e28c03.jpg",
-      "fondo": "8"
+      "fondo": "7"
     },
     {
       "titulo": "con mi ropa japonesa en varela - KevTK",
@@ -279,7 +279,7 @@
       "artista": "KevTK, mYsterYo",
       "archivo": "musica/mwccg571-kevtk-mysteryo-we-need-talk-matedefaso.mp3",
       "portada": "musica/mwccgb5p-5b38959b3131a359a931bfbd26eaed67.jpg",
-      "fondo": "7"
+      "fondo": "6"
     },
     {
       "titulo": "afkgoat - fundir mis cuerdas con el resto de metales (Edit by Highkey) - afkgoat",
