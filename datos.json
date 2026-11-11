@@ -46,8 +46,8 @@
     "activo": true,
     "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
     "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
-    "iv": "I2k60xH3LgSkZolO",
-    "datos": "LZEEqYqY1Hjpo2HM2rb+zRVg+Jtvz3JQ/Ng+/Mlgf1RmRxhyWCmPkaZwMD+Nj2h9h1jM9YAgFth8V87+UDw9Flh+lKZ2bJba3SiyGA8twKdfCnvfnYOkcyFSPEPltD/h0NGGd6o1V38EJf8u71AgDiSih6WtyAqIU+oHxZcMwu3RxFV7QrzOm+QeJRIaVUDBtplQPIAgZ4UdInUiaN2MdxfHHbcaaiXL7RUsF5i8Uw==",
+    "iv": "BTc1pw1E+oEKXTK2",
+    "datos": "iWgMjlk1GwkOs15gIuVEJdqS42SXJWkq/FqrH88AHjBFZBUTZp+3cvK20nJejs4UOBXZ/fMnO8GvHaS+9uZfl+IexSv+E94B/AeQh8fpbjr5p80EXBKza/jnCe/cOsp180cBAdmQ5G4Z+uGshR9hIUhQKJTTRPkeV2+AYL6U/mA6K4QPFT52GAoFcqESi3SDUsh5sPkiupJaNkcADLE1vRWAD5FGCtkRXcJQcOQV2g==",
     "estilo": "normal"
   },
   "clave": {
@@ -104,18 +104,18 @@
   },
   "cursor": {
     "activo": true,
-    "tipo": "punto",
-    "color": "#ffffff",
-    "bordeColor": "#000000",
-    "tam": 10,
+    "tipo": "flecha",
+    "color": "#9c9c9c",
+    "bordeColor": "#ffffff",
+    "tam": 14,
     "glow": true,
-    "glowColor": "#fafafa",
+    "glowColor": "#ffffff",
     "glowTam": 16,
     "imagen": "",
     "imagenTam": 36,
     "anclaje": "centro",
-    "anillo": true,
-    "anilloColor": "#a3a1a5",
+    "anillo": false,
+    "anilloColor": "#b57bff",
     "estela": true,
     "estelaColor": "#ffffff",
     "pulso": true,
@@ -171,18 +171,23 @@
     {
       "nombre": "Video nuevo",
       "tipo": "video",
-      "archivo": "fondos/mw6ch13r-pinterest-1151866042209402119.mp4"
+      "archivo": "fondos/mwcd02tx-pinterest-807903620696854068.mp4"
     }
   ],
   "redes": [
     {
-      "nombre": "Instagram",
-      "url": "https://instagram.com/aangelpoetry",
+      "nombre": "instagram",
+      "url": "https://instagram.com/2haloeminence",
       "icono": "auto"
     },
     {
-      "nombre": "instagram",
-      "url": "https://instagram.com/2haloeminence",
+      "nombre": "spotify",
+      "url": "https://open.spotify.com/user/31humrwjgvqc7oz2zk5hlc7jimom?si=8f63d5c571c9403f",
+      "icono": "auto"
+    },
+    {
+      "nombre": "steam",
+      "url": "https://steamcommunity.com/id/angelclub/",
       "icono": "auto"
     }
   ],
@@ -210,6 +215,24 @@
       "artista": "huntr",
       "archivo": "musica/mw6ci09s-huntr-saramalacara-cortarme-las-alas-aud.mp3",
       "portada": "musica/mw6civlv-1f6dd72eb093e126e6c97cc414f4a16b.jpg"
+    },
+    {
+      "titulo": "FRO! - iCarly - frozouda",
+      "artista": "frozouda",
+      "archivo": "musica/mwcceqee-fro-icarly-frozouda.mp3",
+      "portada": "musica/mwccfqul-0527acd652bd25578ccaf30987e28c03.jpg"
+    },
+    {
+      "titulo": "con mi ropa japonesa en varela - KevTK",
+      "artista": "KevTK",
+      "archivo": "musica/mwccftof-con-mi-ropa-japonesa-en-varela-kevtk.mp3",
+      "portada": "musica/mwccg2aa-50c5c1d3bcdbc49ecf45de6b17e5b61f.jpg"
+    },
+    {
+      "titulo": "KevTK, mYsterYo - We Need Talk - Matedefaso",
+      "artista": "KevTK, mYsterYo",
+      "archivo": "musica/mwccg571-kevtk-mysteryo-we-need-talk-matedefaso.mp3",
+      "portada": "musica/mwccgb5p-5b38959b3131a359a931bfbd26eaed67.jpg"
     }
   ],
   "videos": [],
