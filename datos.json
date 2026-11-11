@@ -46,8 +46,8 @@
     "activo": true,
     "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
     "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
-    "iv": "BTc1pw1E+oEKXTK2",
-    "datos": "iWgMjlk1GwkOs15gIuVEJdqS42SXJWkq/FqrH88AHjBFZBUTZp+3cvK20nJejs4UOBXZ/fMnO8GvHaS+9uZfl+IexSv+E94B/AeQh8fpbjr5p80EXBKza/jnCe/cOsp180cBAdmQ5G4Z+uGshR9hIUhQKJTTRPkeV2+AYL6U/mA6K4QPFT52GAoFcqESi3SDUsh5sPkiupJaNkcADLE1vRWAD5FGCtkRXcJQcOQV2g==",
+    "iv": "a6yZa3EHimKMTjbF",
+    "datos": "otxGFpG4jrJMllCg/T16qsw5l+kBKkqzmalFyHJG6uHx/ovdotGc9mj++7ISFcFcLNp9Rke24UcTOscrmrEOfH5lu2RijrQkUrrl9N6L5362LcgzX5zzVCjx/YF2T5VtCwmdNrKP2Ngc+I6gY+2oeaun7N6lvV7aYXaeBxrt5BoMfvBDW8ObgMowa1HNh18juX4IwWg96MAN0x+WyUoRtj6Fd8nKGptKxbFMe7zIFw==",
     "estilo": "normal"
   },
   "clave": {
@@ -162,7 +162,7 @@
     "repetir": true
   },
   "ajustes": {
-    "fondoIndex": 0,
+    "fondoIndex": 7,
     "fondoOscuro": 0.45,
     "fondoBlur": 0,
     "volumen": 0.6
@@ -172,6 +172,41 @@
       "nombre": "Video nuevo",
       "tipo": "video",
       "archivo": "fondos/mwcd02tx-pinterest-807903620696854068.mp4"
+    },
+    {
+      "nombre": "fun",
+      "tipo": "video",
+      "archivo": "fondos/mwcfd8ak-fundircomprimido.mp4"
+    },
+    {
+      "nombre": "bbyu",
+      "tipo": "video",
+      "archivo": "fondos/mwcfdf6i-babybooooooo.mp4"
+    },
+    {
+      "nombre": "j",
+      "tipo": "video",
+      "archivo": "fondos/mwcfdlhs-salida.mp4"
+    },
+    {
+      "nombre": "blobtr",
+      "tipo": "video",
+      "archivo": "fondos/mwcfdrxq-pinterest-704813410472697616.mp4"
+    },
+    {
+      "nombre": "alas",
+      "tipo": "video",
+      "archivo": "fondos/mwcfe3o4-pinterest-1077275173408326476.mp4"
+    },
+    {
+      "nombre": "place",
+      "tipo": "video",
+      "archivo": "fondos/mwcfe8fg-pinterest-1033153970777322679.mp4"
+    },
+    {
+      "nombre": "kittys",
+      "tipo": "video",
+      "archivo": "fondos/mwcfejx1-pinflik-com.mp4"
     }
   ],
   "redes": [
@@ -196,43 +231,50 @@
       "titulo": "huntr, Perswave - una espina (Audio Oficial)_ - huntr",
       "artista": "huntr",
       "archivo": "musica/mw6chij1-huntr-perswave-una-espina-audio-oficial-.mp3",
-      "portada": "musica/mw6cik68-73879cfcbe7dde288064899d2fe0f768.jpg"
+      "portada": "musica/mw6cik68-73879cfcbe7dde288064899d2fe0f768.jpg",
+      "fondo": "0"
     },
     {
       "titulo": "huntr - babyboo (Video Oficial) - huntr",
       "artista": "huntr",
       "archivo": "musica/mw6cht05-huntr-babyboo-video-oficial-huntr.mp3",
-      "portada": "musica/mw6cio42-8bfa4b6d9b22455f5bcc08349ad517c9.jpg"
+      "portada": "musica/mw6cio42-8bfa4b6d9b22455f5bcc08349ad517c9.jpg",
+      "fondo": "2"
     },
     {
       "titulo": "huntr - are you okay annie (Audio Oficial) - huntr",
       "artista": "huntr",
       "archivo": "musica/mw6chwio-huntr-are-you-okay-annie-audio-oficial-h.mp3",
-      "portada": "musica/mw6ciqx3-5d015c84374c0337e0d0841c459c1b1b.jpg"
+      "portada": "musica/mw6ciqx3-5d015c84374c0337e0d0841c459c1b1b.jpg",
+      "fondo": "4"
     },
     {
       "titulo": "huntr, Saramalacara - cortarme las alas (Audio Oficial) - huntr",
       "artista": "huntr",
       "archivo": "musica/mw6ci09s-huntr-saramalacara-cortarme-las-alas-aud.mp3",
-      "portada": "musica/mw6civlv-1f6dd72eb093e126e6c97cc414f4a16b.jpg"
+      "portada": "musica/mw6civlv-1f6dd72eb093e126e6c97cc414f4a16b.jpg",
+      "fondo": "5"
     },
     {
       "titulo": "FRO! - iCarly - frozouda",
       "artista": "frozouda",
       "archivo": "musica/mwcceqee-fro-icarly-frozouda.mp3",
-      "portada": "musica/mwccfqul-0527acd652bd25578ccaf30987e28c03.jpg"
+      "portada": "musica/mwccfqul-0527acd652bd25578ccaf30987e28c03.jpg",
+      "fondo": "6"
     },
     {
       "titulo": "con mi ropa japonesa en varela - KevTK",
       "artista": "KevTK",
       "archivo": "musica/mwccftof-con-mi-ropa-japonesa-en-varela-kevtk.mp3",
-      "portada": "musica/mwccg2aa-50c5c1d3bcdbc49ecf45de6b17e5b61f.jpg"
+      "portada": "musica/mwccg2aa-50c5c1d3bcdbc49ecf45de6b17e5b61f.jpg",
+      "fondo": "3"
     },
     {
       "titulo": "KevTK, mYsterYo - We Need Talk - Matedefaso",
       "artista": "KevTK, mYsterYo",
       "archivo": "musica/mwccg571-kevtk-mysteryo-we-need-talk-matedefaso.mp3",
-      "portada": "musica/mwccgb5p-5b38959b3131a359a931bfbd26eaed67.jpg"
+      "portada": "musica/mwccgb5p-5b38959b3131a359a931bfbd26eaed67.jpg",
+      "fondo": "7"
     }
   ],
   "videos": [],
