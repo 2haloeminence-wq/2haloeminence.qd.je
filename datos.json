@@ -46,8 +46,8 @@
     "activo": true,
     "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
     "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
-    "iv": "a6yZa3EHimKMTjbF",
-    "datos": "otxGFpG4jrJMllCg/T16qsw5l+kBKkqzmalFyHJG6uHx/ovdotGc9mj++7ISFcFcLNp9Rke24UcTOscrmrEOfH5lu2RijrQkUrrl9N6L5362LcgzX5zzVCjx/YF2T5VtCwmdNrKP2Ngc+I6gY+2oeaun7N6lvV7aYXaeBxrt5BoMfvBDW8ObgMowa1HNh18juX4IwWg96MAN0x+WyUoRtj6Fd8nKGptKxbFMe7zIFw==",
+    "iv": "3JVPdFjmnXfWUuT4",
+    "datos": "5Le58F38KzHsoD9lGqsCY8wguGT6o45zdOf5pFMZeonGY3lJ9sqOJkAr2V6hF5I7HoC2U+lreQq/aeT0ee5A2MJ/RrNLUVjmQpLBcCDPoRgUPlJ9LXCSjGDURHw6MVBnUVNKtxJLgh8cndpleo7IMh0Pc8NEwhf4oYl77+vEKQGtiOT5yyti4AlAAfVZPO0YdX1M7zvfKy0qtevpdRuJnDovHknC2fZS6HtYtuQ+pA==",
     "estilo": "normal"
   },
   "clave": {
@@ -275,6 +275,13 @@
       "archivo": "musica/mwccg571-kevtk-mysteryo-we-need-talk-matedefaso.mp3",
       "portada": "musica/mwccgb5p-5b38959b3131a359a931bfbd26eaed67.jpg",
       "fondo": "7"
+    },
+    {
+      "titulo": "afkgoat - fundir mis cuerdas con el resto de metales (Edit by Highkey) - afkgoat",
+      "artista": "afkgoat ",
+      "archivo": "musica/mwcfhfpa-afkgoat-fundir-mis-cuerdas-con-el-resto-.mp3",
+      "portada": "",
+      "fondo": "1"
     }
   ],
   "videos": [],
