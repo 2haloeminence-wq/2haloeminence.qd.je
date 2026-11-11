@@ -46,8 +46,8 @@
     "activo": true,
     "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
     "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
-    "iv": "3JVPdFjmnXfWUuT4",
-    "datos": "5Le58F38KzHsoD9lGqsCY8wguGT6o45zdOf5pFMZeonGY3lJ9sqOJkAr2V6hF5I7HoC2U+lreQq/aeT0ee5A2MJ/RrNLUVjmQpLBcCDPoRgUPlJ9LXCSjGDURHw6MVBnUVNKtxJLgh8cndpleo7IMh0Pc8NEwhf4oYl77+vEKQGtiOT5yyti4AlAAfVZPO0YdX1M7zvfKy0qtevpdRuJnDovHknC2fZS6HtYtuQ+pA==",
+    "iv": "bDlZBngQ1oFWNbMz",
+    "datos": "jO7pC/zQQsUiSsKTKB4rzpzmDdc/goiO2oZCkUo9KtpmRe52B05iNhEjG2FmOFiuFR8S1UAi8p+WTm692QYjCPqXExiSL7gbWpuA2ttW4Ynt2z1Hac4cQsVb7p0aeBQTaB9qdHoKVRJGqDW96y8dRsNaOJZnBDZjzNXEp04nkozJYHc7EVQzqWr6biS2K+AmgV/zyBAD3Yn8Bo/IATlrt2iQGfxF0FLHeGr4AjInpQ==",
     "estilo": "normal"
   },
   "clave": {
@@ -104,16 +104,16 @@
   },
   "cursor": {
     "activo": true,
-    "tipo": "flecha",
-    "color": "#9c9c9c",
+    "tipo": "imagen",
+    "color": "#000000",
     "bordeColor": "#ffffff",
     "tam": 14,
     "glow": true,
     "glowColor": "#ffffff",
     "glowTam": 16,
-    "imagen": "",
+    "imagen": "cursores/mwcflgrj-captura-de-pantalla-2026-11-08-173844-re.png",
     "imagenTam": 36,
-    "anclaje": "centro",
+    "anclaje": "punta",
     "anillo": false,
     "anilloColor": "#b57bff",
     "estela": true,
@@ -280,7 +280,7 @@
       "titulo": "afkgoat - fundir mis cuerdas con el resto de metales (Edit by Highkey) - afkgoat",
       "artista": "afkgoat ",
       "archivo": "musica/mwcfhfpa-afkgoat-fundir-mis-cuerdas-con-el-resto-.mp3",
-      "portada": "",
+      "portada": "musica/mwcfkh4c-5d015c84374c0337e0d0841c459c1b1b.jpg",
       "fondo": "1"
     }
   ],
