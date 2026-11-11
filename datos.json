@@ -38,16 +38,16 @@
     "acento": "#e6e6e6"
   },
   "acceso": {
-    "activo": true,
-    "salt": "F8cXWyYIxZAjmjrgPYNMXg==",
-    "hash": "khoNZkqL5NaOOFNA6lqGU9BFl5ljARkSx2C+ayL7GvU="
+    "activo": false,
+    "salt": "",
+    "hash": ""
   },
   "handycamClave": {
     "activo": true,
     "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
     "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
-    "iv": "vg+KejOmU0AQkMi1",
-    "datos": "ir6WyqTq3CbboGnAzrsGCdres4E2TbgdmsVfwJzjlqgZntDtXZqWLCf8Bs3jHYkU3pSDbTTdyBoaL+wDgTsDKPQxxDW5+rBFXWF+3uQpHlidU+No69e1PzT6Rzh89YXDNYT2giPcQL7vzyNcq+PNjom4Q7C5o8Z4JXkhN2+XBhpMf1Dlq/Ukk1Q9hwhq02hS3E5g91hUyzMfDkFWYTMFBqRUXTWh73Blm4Wjn81+/A==",
+    "iv": "I2k60xH3LgSkZolO",
+    "datos": "LZEEqYqY1Hjpo2HM2rb+zRVg+Jtvz3JQ/Ng+/Mlgf1RmRxhyWCmPkaZwMD+Nj2h9h1jM9YAgFth8V87+UDw9Flh+lKZ2bJba3SiyGA8twKdfCnvfnYOkcyFSPEPltD/h0NGGd6o1V38EJf8u71AgDiSih6WtyAqIU+oHxZcMwu3RxFV7QrzOm+QeJRIaVUDBtplQPIAgZ4UdInUiaN2MdxfHHbcaaiXL7RUsF5i8Uw==",
     "estilo": "normal"
   },
   "clave": {
