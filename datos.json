@@ -46,8 +46,8 @@
     "activo": true,
     "salt": "U2FGpZrmb6DIZO6zFMbjIA==",
     "hash": "PlF/1smrZqPNkKTvxXfbxvAR8zmc2VMPOmxo3aZZrrw=",
-    "iv": "vZYqmSOGWr+6/5Cm",
-    "datos": "wiEYoshUhOyNMMtcSQ7aDamsos/eGD5HjQPAO9RXAviCmj6l089+h5TFoPf03UiD6Ukrr9BvK/gh7v5S6Z4mdonTN7OKwhsS3VI4zeN3RgUf63+GtNBc/B5ZNK4q5UzJnIrKIdPHvVLVdDGpIDXW+7nIeRx8eiP4JoGu5A4Tne6b35MkHvItYZ4OhZzyXaGfGP2tqqczlqPNJm+91KweUpNOA4tNIwh5Aoq1xIq02w==",
+    "iv": "jMSJelgsOnOrXL1r",
+    "datos": "Qzrcr5UXrGqEOde4eh8izQkO0pmpZxE+z5J0hARtr0WuzUipUXfR7WaDsNU8mwMupPewkKew6gixpwAwRB/TwrfYVMhWl0EdPij0z2ss2QH79k9jSDe8nigY8Gzmp+Q89IeZNUn+nprSRuZqKTxbqOUHboY3rz4Xv9bLWtFvzivP6fIVx/Hs+/IYodOivtni52vaWo1s5pVER7iaRH1XmwULCPMT8L6r47siK3e/og==",
     "estilo": "normal"
   },
   "clave": {
@@ -162,7 +162,7 @@
     "repetir": true
   },
   "ajustes": {
-    "fondoIndex": 8,
+    "fondoIndex": 7,
     "fondoOscuro": 0.55,
     "fondoBlur": 5,
     "volumen": 0.6
@@ -202,11 +202,6 @@
       "nombre": "kittys",
       "tipo": "video",
       "archivo": "fondos/mwcfejx1-pinflik-com.mp4"
-    },
-    {
-      "nombre": "icarly",
-      "tipo": "video",
-      "archivo": "fondos/mwcfofbc-icarlycompr.mp4"
     },
     {
       "nombre": "Video nuevobbbbbbbbbbbbbbbbbb",
@@ -251,7 +246,7 @@
       "artista": "huntr",
       "archivo": "musica/mw6chwio-huntr-are-you-okay-annie-audio-oficial-h.mp3",
       "portada": "musica/mw6ciqx3-5d015c84374c0337e0d0841c459c1b1b.jpg",
-      "fondo": "8"
+      "fondo": "7"
     },
     {
       "titulo": "huntr, Saramalacara - cortarme las alas (Audio Oficial) - huntr",
@@ -259,13 +254,6 @@
       "archivo": "musica/mw6ci09s-huntr-saramalacara-cortarme-las-alas-aud.mp3",
       "portada": "musica/mw6civlv-1f6dd72eb093e126e6c97cc414f4a16b.jpg",
       "fondo": "4"
-    },
-    {
-      "titulo": "FRO! - iCarly - frozouda",
-      "artista": "frozouda",
-      "archivo": "musica/mwcceqee-fro-icarly-frozouda.mp3",
-      "portada": "musica/mwccfqul-0527acd652bd25578ccaf30987e28c03.jpg",
-      "fondo": "7"
     },
     {
       "titulo": "con mi ropa japonesa en varela - KevTK",
